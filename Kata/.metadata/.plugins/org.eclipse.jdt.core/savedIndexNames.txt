@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\lirom\Downloads\Kata\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3867580250.index
+1920113512.index
